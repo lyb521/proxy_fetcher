@@ -1,7 +1,7 @@
 ## 代理IP采集器
 
 ### 项目采用scrapy编写
-    执行pip install scrapy 安装（python版本2.7以上，具体参考scrapy官方文档）
+    执行pip install scrapy 安装（python版本2.7以上，具体参考scrapy官方文档
     官网地址：https://doc.scrapy.org/en/latest/intro/install.html
 
 ### 代码文件结构
