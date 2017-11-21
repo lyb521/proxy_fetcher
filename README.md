@@ -22,4 +22,10 @@
     |-- start.py--------------------- 启动scrapy蜘蛛python脚本
     |-- start.sh---------------------启动scrapy蜘蛛shell脚本
     |-- verify.py---------------------校验数据库中代理ip可用性的shell脚本（添加crontab周期性运行）
+
+### 联系
+
+   个人主页：[https://www.leiyongbo.com](https://www.leiyongbo.com)
+
+   github开源: https://github.com/lyb521
     
